@@ -1,4 +1,7 @@
-### Hi there 👋 大前端/Java 开发热衷Man
+### Hi there 👋 大前端（主要）/Java 热爱造轮子
+
+#### Name: ruixiaozi
+#### Email: admin@ruixiaozi.com
 
 <!--
 **ruixiaozi/ruixiaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
