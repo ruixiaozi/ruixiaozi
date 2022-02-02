@@ -1,4 +1,4 @@
-### Hi there 👋 大前端（主要）/Java 热爱造轮子
+### Hi there 👋 大前端（主要）JavaScript/TypeScript/NodeJS/Vue/Angular 热爱造轮子
 
 #### Name: ruixiaozi
 #### Email: admin@ruixiaozi.com
