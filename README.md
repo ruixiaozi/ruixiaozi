@@ -7,15 +7,15 @@
 
 ### Brisk
 
-+ [brisk-ioc](https://github.com/ruixiaozi/brisk-ioc)
-+ [brisk-controller](https://github.com/ruixiaozi/brisk-controller)
-+ [brisk-orm](https://github.com/ruixiaozi/brisk-orm)
-+ [brisk-ts-extends](https://github.com/ruixiaozi/brisk-ts-extends)
-+ [eslint-config-brisk](https://github.com/ruixiaozi/eslint-config-brisk)
++ [brisk-ioc](https://github.com/ruixiaozi/brisk-ioc) <a href="https://www.npmjs.com/package/brisk-ioc"><img src="https://img.shields.io/npm/v/brisk-ioc.svg" alt="NPM Version" /></a>
++ [brisk-controller](https://github.com/ruixiaozi/brisk-controller) <a href="https://www.npmjs.com/package/brisk-controller"><img src="https://img.shields.io/npm/v/brisk-controller.svg" alt="NPM Version" /></a>
++ [brisk-orm](https://github.com/ruixiaozi/brisk-orm) <a href="https://www.npmjs.com/package/brisk-orm"><img src="https://img.shields.io/npm/v/brisk-orm.svg" alt="NPM Version" /></a>
++ [brisk-ts-extends](https://github.com/ruixiaozi/brisk-ts-extends) <a href="https://www.npmjs.com/package/brisk-ts-extends"><img src="https://img.shields.io/npm/v/brisk-ts-extends.svg" alt="NPM Version" /></a>
++ [eslint-config-brisk](https://github.com/ruixiaozi/eslint-config-brisk) <a href="https://www.npmjs.com/package/eslint-config-brisk"><img src="https://img.shields.io/npm/v/eslint-config-brisk.svg" alt="NPM Version" /></a>
 
 ### cli/lint
 
-+ [dirlint](https://github.com/ruixiaozi/dirlint)
++ [dirlint](https://github.com/ruixiaozi/dirlint) <a href="https://www.npmjs.com/package/dirlint"><img src="https://img.shields.io/npm/v/dirlint.svg" alt="NPM Version" /></a>
 
 <!--
 **ruixiaozi/ruixiaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
