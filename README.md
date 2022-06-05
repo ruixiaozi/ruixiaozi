@@ -1,6 +1,7 @@
-### Hi there 👋 大前端（主要）JavaScript/TypeScript/NodeJS/Vue/Angular 热爱造轮子
+### Hi there 👋 大前端 JavaScript/TypeScript/NodeJS/Vue/Angular 热爱造轮子
 
 ### Node后台生态Brisk轮子制造中... 欢迎star/fork/issue/PR
+### 前端rxz-ui 2即将发布，全面支持vue3
 
 #### Name: ruixiaozi
 #### Email: admin@ruixiaozi.com
