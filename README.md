@@ -1,10 +1,15 @@
 ### Hi there 👋 大前端 JavaScript/TypeScript/NodeJS/Vue/Angular 热爱造轮子
 
 ### Node后台生态Brisk轮子制造中... 欢迎star/fork/issue/PR
-### 前端rxz-ui 2即将发布，全面支持vue3
+### 前端rxz-ui 2已发布，全面支持vue3
 
 #### Name: ruixiaozi
 #### Email: admin@ruixiaozi.com
+
+### 前端
+
++ [rxz-ui](https://github.com/ruixiaozi/rxz-ui) <a href="https://www.npmjs.com/package/rxz-ui"><img src="https://img.shields.io/npm/v/rxz-ui.svg" alt="NPM Version" /></a>
++ [vue3 源码注释](https://github.com/ruixiaozi/vue3.2.37)
 
 ### Brisk
 
@@ -35,7 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 前端
 
-+ [rxz-ui](https://github.com/ruixiaozi/rxz-ui) <a href="https://www.npmjs.com/package/rxz-ui"><img src="https://img.shields.io/npm/v/rxz-ui.svg" alt="NPM Version" /></a>
-+ [vue3 源码注释](https://github.com/ruixiaozi/vue3.2.37)
