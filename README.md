@@ -13,6 +13,8 @@
 
 ### Brisk
 
++ [brisk-doc 文档](https://github.com/ruixiaozi/brisk-doc)
+
 + [brisk-ioc](https://github.com/ruixiaozi/brisk-ioc) <a href="https://www.npmjs.com/package/brisk-ioc"><img src="https://img.shields.io/npm/v/brisk-ioc.svg" alt="NPM Version" /></a>
 + [brisk-controller](https://github.com/ruixiaozi/brisk-controller) <a href="https://www.npmjs.com/package/brisk-controller"><img src="https://img.shields.io/npm/v/brisk-controller.svg" alt="NPM Version" /></a>
 + [brisk-orm](https://github.com/ruixiaozi/brisk-orm) <a href="https://www.npmjs.com/package/brisk-orm"><img src="https://img.shields.io/npm/v/brisk-orm.svg" alt="NPM Version" /></a>
