@@ -1,5 +1,7 @@
 ### Hi there 👋 大前端 JavaScript/TypeScript/NodeJS/Vue/Angular 热爱造轮子
 
+### 开源项目讨论Q群：564206555，专注开源项目讨论
+
 ### Node后台生态Brisk轮子制造中... 欢迎star/fork/issue/PR
 ### 前端rxz-ui 2已发布，全面支持vue3
 
