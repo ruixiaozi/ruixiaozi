@@ -15,7 +15,7 @@
 
 ### Brisk
 
-+ [brisk-doc 文档](https://github.com/ruixiaozi/brisk-doc)
++ [brisk-doc 文档](http://www.briskjs.com)
 + [brisk-cli](https://github.com/ruixiaozi/brisk-cli) <a href="https://www.npmjs.com/package/brisk-cli"><img src="https://img.shields.io/npm/v/brisk-cli.svg" alt="NPM Version" /></a>
 
 + [brisk-ts-extends](https://github.com/ruixiaozi/brisk-ts-extends) <a href="https://www.npmjs.com/package/brisk-ts-extends"><img src="https://img.shields.io/npm/v/brisk-ts-extends.svg" alt="NPM Version" /></a>
